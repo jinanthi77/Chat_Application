@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-image: url(img/Ghilbi.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.enterButton{
+    text-align: center;
+    padding-top: 30%;
+    font-family: Dosis;
+    font-weight: 800;
+}
+.enterButton .Login button{
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    padding: 5px 65px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 800;
+    border-radius: 12px;
+}
+.enterButton .Signup button{
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    padding: 5px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 800;
+    border-radius: 12px;
+}
